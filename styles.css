@@ -12,8 +12,12 @@ button {
   color: white;
   background-color: black;
   border-radius: 16px;
+  padding: 10px 24px:
 }
 button.hover {
   color: black;
   background-color: white;
+}
+body {
+  background-color: #141414;
 }
