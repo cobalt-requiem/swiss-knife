@@ -1,0 +1,19 @@
+p {
+  color: white;
+  font-family: courier;
+}
+h1 {
+  text-align: center;
+  font-family: serif;
+  color: #445c6d;
+}
+button {
+  border: 2px white;
+  color: white;
+  background-color: black;
+  border-radius: 16px;
+}
+button.hover {
+  color: black;
+  background-color: white;
+}
